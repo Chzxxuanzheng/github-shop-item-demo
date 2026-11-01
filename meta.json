@@ -1,0 +1,7 @@
+{
+	"id": "demo",
+	"name": "组件demo",
+	"desc": "一个用于测试的东西啦",
+	"author": "Mr.Lee",
+	"enter": "./src/main.py"
+}
